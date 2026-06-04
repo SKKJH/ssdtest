@@ -1,0 +1,26 @@
+[2026-05-27 19:22:16] start create base=/nvme/media/gc_exp/20260527_191327_nodiscard_data/work target=107374182400 (100.00GiB) sizes=[1048576, 4194304, 16777216] weights=[5.0, 3.0, 1.0]
+[2026-05-27 19:22:16] progress files=1 bytes=4194304 (4.00MiB) rate=943.58MiB/s
+[2026-05-27 19:22:26] progress files=1468 bytes=5672796160 (5.28GiB) rate=539.88MiB/s
+[2026-05-27 19:22:36] progress files=2596 bytes=9973006336 (9.29GiB) rate=475.03MiB/s
+[2026-05-27 19:22:46] progress files=3690 bytes=14262730752 (13.28GiB) rate=452.93MiB/s
+[2026-05-27 19:22:56] progress files=4887 bytes=18924699648 (17.62GiB) rate=450.84MiB/s
+[2026-05-27 19:23:06] progress files=6142 bytes=23716691968 (22.09GiB) rate=451.99MiB/s
+[2026-05-27 19:23:16] progress files=7468 bytes=28727836672 (26.75GiB) rate=456.29MiB/s
+[2026-05-27 19:23:26] progress files=8726 bytes=33727447040 (31.41GiB) rate=459.16MiB/s
+[2026-05-27 19:23:36] progress files=9959 bytes=38335938560 (35.70GiB) rate=456.70MiB/s
+[2026-05-27 19:23:46] progress files=11052 bytes=42385539072 (39.47GiB) rate=448.70MiB/s
+[2026-05-27 19:23:56] progress files=12549 bytes=48327819264 (45.01GiB) rate=460.15MiB/s
+[2026-05-27 19:24:06] progress files=13845 bytes=53272903680 (49.61GiB) rate=461.08MiB/s
+[2026-05-27 19:24:16] progress files=14927 bytes=57506004992 (53.56GiB) rate=456.27MiB/s
+[2026-05-27 19:24:26] progress files=16100 bytes=62281220096 (58.00GiB) rate=456.20MiB/s
+[2026-05-27 19:24:36] progress files=17234 bytes=66707259392 (62.13GiB) rate=453.76MiB/s
+[2026-05-27 19:24:46] progress files=18767 bytes=72309800960 (67.34GiB) rate=459.08MiB/s
+[2026-05-27 19:24:56] progress files=20131 bytes=77467746304 (72.15GiB) rate=461.10MiB/s
+[2026-05-27 19:25:06] progress files=21224 bytes=81473306624 (75.88GiB) rate=456.45MiB/s
+[2026-05-27 19:25:16] progress files=22460 bytes=86452994048 (80.52GiB) rate=457.46MiB/s
+[2026-05-27 19:25:26] progress files=23639 bytes=91149565952 (84.89GiB) rate=456.89MiB/s
+[2026-05-27 19:25:36] progress files=24765 bytes=95828312064 (89.25GiB) rate=456.29MiB/s
+[2026-05-27 19:25:46] progress files=26101 bytes=100994646016 (94.06GiB) rate=458.01MiB/s
+[2026-05-27 19:25:56] progress files=27174 bytes=105309536256 (98.08GiB) rate=455.83MiB/s
+[2026-05-27 19:26:01] sync created files
+[2026-05-27 19:26:02] done files=27746 bytes=107374182400 (100.00GiB) elapsed=226.06s stop_reason=target_reached

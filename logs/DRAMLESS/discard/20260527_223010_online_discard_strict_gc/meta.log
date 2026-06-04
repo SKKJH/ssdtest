@@ -1,0 +1,139 @@
+[2026-05-27 22:30:10] filesystem resolved: source=/dev/nvme0n1 target=/nvme/media fstype=ext4
+[2026-05-27 22:30:10] current mount options: rw,noatime,nodiratime,stripe=32
+[2026-05-27 22:30:10] discard_max_bytes(nvme0n1)=2199023255040
+discard_state=on
+mode=online_discard
+mount_opt=discard
+device=/dev/nvme0n1
+required_source=/dev/nvme0n1
+fs_source=/dev/nvme0n1
+fs_target=/nvme/media
+fs_fstype=ext4
+fs_options=rw,noatime,nodiratime,stripe=32
+base_dir=/home/kjh/real_ssd_test/gc
+mnt=/nvme/media
+data_root=/nvme/media/gc_exp
+data_dir=/nvme/media/gc_exp/20260527_223010_online_discard_data
+age_dir=/nvme/media/gc_exp/age_filler
+fb_dir=/nvme/media/gc_exp/20260527_223010_online_discard_data/filebench
+wk_dir=/nvme/media/gc_exp/20260527_223010_online_discard_data/work
+log_dir=/home/kjh/real_ssd_test/gc/logs/20260527_223010_online_discard_strict_gc
+runtime_sec=900
+age_enable=1
+gc_target_free_gib=90
+run_headroom_gib=30
+min_free_gib_after_run=40
+fb_logical_gib=160
+fb_expected_prealloc_bytes=137438953472
+fb_expected_prealloc_human=128.00GiB
+fb_prealloc=80
+fb_meanfile_kib=1024
+fb_set_count=1
+fb_set_entries=163840
+fb_threads=16
+wk_target_gib=100
+wk_target_bytes=107374182400
+wk_target_human=100.00GiB
+wk_min_gib=100
+wk_min_bytes=107374182400
+wk_min_human=100.00GiB
+strict_work_min=1
+delete_rate_gib_per_min=6
+delete_tick_sec=1
+delete_progress_sec=10
+preserve_data_on_exit=1
+[2026-05-27 22:30:10] mount -o remount,noatime,nodiratime,discard /nvme/media
+[2026-05-27 22:30:10] age planning: free=869.23GiB desired_before_run=348.00GiB target_measurement_free=90.00GiB
+[2026-05-27 22:30:10] create age filler 521.00GiB under /nvme/media/gc_exp/age_filler/age_20260527_223010_online_discard
+[2026-05-27 23:14:18] generate filebench workload
+[2026-05-27 23:14:18] start filebench: prealloc and runtime in one invocation
+[2026-05-27 23:14:18] start concurrent work-file creation target=100.00GiB min=100.00GiB
+[2026-05-27 23:14:28] waiting for filebench Running... (10s elapsed; work_created=2.30GiB)
+[2026-05-27 23:14:38] waiting for filebench Running... (20s elapsed; work_created=3.33GiB)
+[2026-05-27 23:14:48] waiting for filebench Running... (30s elapsed; work_created=4.21GiB)
+[2026-05-27 23:14:58] waiting for filebench Running... (40s elapsed; work_created=6.32GiB)
+[2026-05-27 23:15:08] waiting for filebench Running... (50s elapsed; work_created=7.33GiB)
+[2026-05-27 23:15:19] waiting for filebench Running... (60s elapsed; work_created=8.72GiB)
+[2026-05-27 23:15:29] waiting for filebench Running... (70s elapsed; work_created=10.08GiB)
+[2026-05-27 23:15:39] waiting for filebench Running... (80s elapsed; work_created=11.51GiB)
+[2026-05-27 23:15:49] waiting for filebench Running... (90s elapsed; work_created=13.36GiB)
+[2026-05-27 23:15:59] waiting for filebench Running... (100s elapsed; work_created=14.75GiB)
+[2026-05-27 23:16:09] waiting for filebench Running... (110s elapsed; work_created=15.67GiB)
+[2026-05-27 23:16:19] waiting for filebench Running... (120s elapsed; work_created=16.53GiB)
+[2026-05-27 23:16:29] waiting for filebench Running... (130s elapsed; work_created=17.52GiB)
+[2026-05-27 23:16:39] waiting for filebench Running... (140s elapsed; work_created=18.48GiB)
+[2026-05-27 23:16:50] waiting for filebench Running... (150s elapsed; work_created=20.30GiB)
+[2026-05-27 23:17:00] waiting for filebench Running... (160s elapsed; work_created=21.59GiB)
+[2026-05-27 23:17:10] waiting for filebench Running... (170s elapsed; work_created=22.51GiB)
+[2026-05-27 23:17:20] waiting for filebench Running... (180s elapsed; work_created=23.46GiB)
+[2026-05-27 23:17:30] waiting for filebench Running... (190s elapsed; work_created=24.71GiB)
+[2026-05-27 23:17:40] waiting for filebench Running... (200s elapsed; work_created=25.70GiB)
+[2026-05-27 23:17:50] waiting for filebench Running... (210s elapsed; work_created=27.08GiB)
+[2026-05-27 23:18:00] waiting for filebench Running... (220s elapsed; work_created=28.08GiB)
+[2026-05-27 23:18:10] waiting for filebench Running... (230s elapsed; work_created=29.06GiB)
+[2026-05-27 23:18:20] waiting for filebench Running... (240s elapsed; work_created=31.36GiB)
+[2026-05-27 23:18:30] waiting for filebench Running... (250s elapsed; work_created=33.27GiB)
+[2026-05-27 23:18:41] waiting for filebench Running... (260s elapsed; work_created=34.64GiB)
+[2026-05-27 23:18:51] waiting for filebench Running... (270s elapsed; work_created=36.71GiB)
+[2026-05-27 23:19:01] waiting for filebench Running... (280s elapsed; work_created=38.41GiB)
+[2026-05-27 23:19:11] waiting for filebench Running... (290s elapsed; work_created=39.76GiB)
+[2026-05-27 23:19:21] waiting for filebench Running... (300s elapsed; work_created=41.29GiB)
+[2026-05-27 23:19:31] waiting for filebench Running... (310s elapsed; work_created=43.58GiB)
+[2026-05-27 23:19:41] waiting for filebench Running... (320s elapsed; work_created=44.97GiB)
+[2026-05-27 23:19:51] waiting for filebench Running... (330s elapsed; work_created=46.29GiB)
+[2026-05-27 23:20:01] waiting for filebench Running... (340s elapsed; work_created=47.79GiB)
+[2026-05-27 23:20:11] waiting for filebench Running... (350s elapsed; work_created=50.38GiB)
+[2026-05-27 23:20:21] waiting for filebench Running... (360s elapsed; work_created=51.89GiB)
+[2026-05-27 23:20:32] waiting for filebench Running... (370s elapsed; work_created=53.25GiB)
+[2026-05-27 23:20:42] waiting for filebench Running... (380s elapsed; work_created=54.26GiB)
+[2026-05-27 23:20:52] waiting for filebench Running... (390s elapsed; work_created=55.66GiB)
+[2026-05-27 23:21:02] waiting for filebench Running... (400s elapsed; work_created=57.55GiB)
+[2026-05-27 23:21:12] waiting for filebench Running... (410s elapsed; work_created=59.03GiB)
+[2026-05-27 23:21:22] waiting for filebench Running... (420s elapsed; work_created=60.91GiB)
+[2026-05-27 23:21:32] waiting for filebench Running... (430s elapsed; work_created=62.76GiB)
+[2026-05-27 23:21:42] waiting for filebench Running... (440s elapsed; work_created=63.72GiB)
+[2026-05-27 23:21:52] waiting for filebench Running... (450s elapsed; work_created=65.44GiB)
+[2026-05-27 23:22:02] waiting for filebench Running... (460s elapsed; work_created=66.73GiB)
+[2026-05-27 23:22:13] waiting for filebench Running... (470s elapsed; work_created=68.02GiB)
+[2026-05-27 23:22:23] waiting for filebench Running... (480s elapsed; work_created=69.42GiB)
+[2026-05-27 23:22:33] waiting for filebench Running... (490s elapsed; work_created=72.05GiB)
+[2026-05-27 23:22:43] waiting for filebench Running... (500s elapsed; work_created=73.32GiB)
+[2026-05-27 23:22:53] waiting for filebench Running... (510s elapsed; work_created=75.12GiB)
+[2026-05-27 23:23:03] waiting for filebench Running... (520s elapsed; work_created=77.04GiB)
+[2026-05-27 23:23:13] waiting for filebench Running... (530s elapsed; work_created=78.50GiB)
+[2026-05-27 23:23:23] waiting for filebench Running... (540s elapsed; work_created=79.38GiB)
+[2026-05-27 23:23:34] waiting for filebench Running... (550s elapsed; work_created=80.76GiB)
+[2026-05-27 23:23:44] waiting for filebench Running... (560s elapsed; work_created=82.18GiB)
+[2026-05-27 23:23:54] waiting for filebench Running... (570s elapsed; work_created=83.20GiB)
+[2026-05-27 23:24:04] waiting for filebench Running... (580s elapsed; work_created=84.12GiB)
+[2026-05-27 23:24:14] waiting for filebench Running... (590s elapsed; work_created=85.05GiB)
+[2026-05-27 23:24:24] waiting for filebench Running... (600s elapsed; work_created=86.53GiB)
+[2026-05-27 23:24:34] waiting for filebench Running... (610s elapsed; work_created=88.00GiB)
+[2026-05-27 23:24:44] waiting for filebench Running... (620s elapsed; work_created=89.02GiB)
+[2026-05-27 23:24:55] waiting for filebench Running... (630s elapsed; work_created=90.88GiB)
+[2026-05-27 23:25:05] waiting for filebench Running... (640s elapsed; work_created=91.81GiB)
+[2026-05-27 23:25:15] waiting for filebench Running... (650s elapsed; work_created=93.62GiB)
+[2026-05-27 23:25:25] waiting for filebench Running... (660s elapsed; work_created=94.99GiB)
+[2026-05-27 23:25:35] waiting for filebench Running... (670s elapsed; work_created=95.99GiB)
+[2026-05-27 23:25:45] waiting for filebench Running... (680s elapsed; work_created=96.91GiB)
+[2026-05-27 23:25:55] waiting for filebench Running... (690s elapsed; work_created=98.39GiB)
+[2026-05-27 23:26:05] waiting for filebench Running... (700s elapsed; work_created=100.00GiB)
+[2026-05-27 23:26:15] waiting for filebench Running... (710s elapsed; work_created=100.00GiB)
+[2026-05-27 23:26:26] waiting for filebench Running... (720s elapsed; work_created=100.00GiB)
+[2026-05-27 23:26:36] waiting for filebench Running... (730s elapsed; work_created=100.00GiB)
+[2026-05-27 23:26:46] waiting for filebench Running... (740s elapsed; work_created=100.00GiB)
+[2026-05-27 23:26:56] waiting for filebench Running... (750s elapsed; work_created=100.00GiB)
+[2026-05-27 23:27:06] waiting for filebench Running... (760s elapsed; work_created=100.00GiB)
+[2026-05-27 23:27:16] waiting for filebench Running... (770s elapsed; work_created=100.00GiB)
+[2026-05-27 23:27:26] waiting for filebench Running... (780s elapsed; work_created=100.00GiB)
+[2026-05-27 23:27:30] filebench reached Running state; preallocation phase is done
+[2026-05-27 23:27:32] work creation stopped created=100.00GiB min=100.00GiB target=100.00GiB
+[2026-05-27 23:27:32] measurement begins: filebench runtime + delete stream
+[2026-05-27 23:27:32] start delete worker while filebench is running rate=6.00GiB/min progress_sec=10
+[2026-05-27 23:42:31] filebench exit rc=0
+[2026-05-27 23:42:34] done: /home/kjh/real_ssd_test/gc/logs/20260527_223010_online_discard_strict_gc
+[2026-05-27 23:42:34] data left in: /nvme/media/gc_exp/20260527_223010_online_discard_data
+[2026-05-27 23:42:34] restore mount option: mount -o remount,nodiscard /nvme/media
+[2026-05-27 23:42:34] experiment data preserved under: /nvme/media/gc_exp/20260527_223010_online_discard_data
+[2026-05-27 23:42:34] age filler preserved under: /nvme/media/gc_exp/age_filler
+[2026-05-27 23:42:34] logs preserved under: /home/kjh/real_ssd_test/gc/logs/20260527_223010_online_discard_strict_gc

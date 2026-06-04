@@ -1,0 +1,7 @@
+fb_dir=/nvme/media/gc_exp/20260527_191327_nodiscard_data/filebench
+set_count=1
+entries_per_set=184320
+prealloc=85
+mean_file_kib=1024
+runtime_sec=900
+threads_total=16

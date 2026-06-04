@@ -1,0 +1,26 @@
+Filebench Version 1.5-alpha3
+0.000: Allocated 177MB of shared memory
+0.006: Populating and pre-allocating filesets
+0.067: fbset0 populated: 184320 files, avg. dir. width = 64, avg. dir. depth = 2.9, 0 leafdirs, 184320.000MB total size
+0.067: Removing fbset0 tree (if exists)
+0.069: Pre-allocating directories in fbset0 tree
+0.128: Pre-allocating files in fbset0 tree
+282.483: Waiting for pre-allocation to finish (in case of a parallel pre-allocation)
+282.483: Population and pre-allocation of filesets completed
+282.484: Starting 1 fbproc0 instances
+283.492: Running...
+1183.575: Run took 900 seconds...
+1183.579: Per-Operation Breakdown
+delete0              411433ops      457ops/s   0.0mb/s    0.465ms/op [0.015ms - 114.199ms]
+stat0                411433ops      457ops/s   0.0mb/s    0.227ms/op [0.002ms - 105.357ms]
+close_append0        411433ops      457ops/s   0.0mb/s    0.006ms/op [0.001ms - 4.976ms]
+append0              411433ops      457ops/s   3.6mb/s    1.122ms/op [0.001ms - 404.005ms]
+open_append0         411433ops      457ops/s   0.0mb/s    0.454ms/op [0.004ms - 106.564ms]
+close_read0          411433ops      457ops/s   0.0mb/s    0.007ms/op [0.001ms - 7.082ms]
+read0                411436ops      457ops/s 459.1mb/s   11.249ms/op [0.126ms - 132.386ms]
+open_read0           411440ops      457ops/s   0.0mb/s    0.687ms/op [0.004ms - 105.526ms]
+close_create0        411440ops      457ops/s   0.0mb/s    0.007ms/op [0.001ms - 5.966ms]
+write0               411440ops      457ops/s 457.1mb/s   20.326ms/op [0.494ms - 417.402ms]
+create0              411449ops      457ops/s   0.0mb/s    0.318ms/op [0.014ms - 200.331ms]
+1183.579: IO Summary: 4525803 ops 5028.201 ops/s 457/914 rd/wr 919.8mb/s 3.170ms/op
+1183.579: Shutting down processes

@@ -1,0 +1,108 @@
+[2026-05-27 21:44:57] filesystem resolved: source=/dev/nvme0n1 target=/nvme/media fstype=ext4
+[2026-05-27 21:44:57] current mount options: rw,noatime,nodiratime,stripe=32
+discard_state=off
+mode=nodiscard
+mount_opt=nodiscard
+device=/dev/nvme0n1
+required_source=/dev/nvme0n1
+fs_source=/dev/nvme0n1
+fs_target=/nvme/media
+fs_fstype=ext4
+fs_options=rw,noatime,nodiratime,stripe=32
+base_dir=/home/kjh/real_ssd_test/gc
+mnt=/nvme/media
+data_root=/nvme/media/gc_exp
+data_dir=/nvme/media/gc_exp/20260527_214457_nodiscard_data
+age_dir=/nvme/media/gc_exp/age_filler
+fb_dir=/nvme/media/gc_exp/20260527_214457_nodiscard_data/filebench
+wk_dir=/nvme/media/gc_exp/20260527_214457_nodiscard_data/work
+log_dir=/home/kjh/real_ssd_test/gc/logs/20260527_214457_nodiscard_strict_gc
+runtime_sec=900
+age_enable=1
+gc_target_free_gib=90
+run_headroom_gib=30
+min_free_gib_after_run=40
+fb_logical_gib=160
+fb_expected_prealloc_bytes=137438953472
+fb_expected_prealloc_human=128.00GiB
+fb_prealloc=80
+fb_meanfile_kib=1024
+fb_set_count=1
+fb_set_entries=163840
+fb_threads=16
+wk_target_gib=100
+wk_target_bytes=107374182400
+wk_target_human=100.00GiB
+wk_min_gib=100
+wk_min_bytes=107374182400
+wk_min_human=100.00GiB
+strict_work_min=1
+delete_rate_gib_per_min=6
+delete_tick_sec=1
+delete_progress_sec=10
+preserve_data_on_exit=1
+[2026-05-27 21:44:57] mount -o remount,noatime,nodiratime,nodiscard /nvme/media
+[2026-05-27 21:44:57] age planning: free=869.23GiB desired_before_run=348.00GiB target_measurement_free=90.00GiB
+[2026-05-27 21:44:57] create age filler 521.00GiB under /nvme/media/gc_exp/age_filler/age_20260527_214457_nodiscard
+[2026-05-27 22:05:10] generate filebench workload
+[2026-05-27 22:05:10] start filebench: prealloc and runtime in one invocation
+[2026-05-27 22:05:10] start concurrent work-file creation target=100.00GiB min=100.00GiB
+[2026-05-27 22:05:20] waiting for filebench Running... (10s elapsed; work_created=2.30GiB)
+[2026-05-27 22:05:30] waiting for filebench Running... (20s elapsed; work_created=5.06GiB)
+[2026-05-27 22:05:40] waiting for filebench Running... (30s elapsed; work_created=7.33GiB)
+[2026-05-27 22:05:50] waiting for filebench Running... (40s elapsed; work_created=9.57GiB)
+[2026-05-27 22:06:00] waiting for filebench Running... (50s elapsed; work_created=11.97GiB)
+[2026-05-27 22:06:11] waiting for filebench Running... (60s elapsed; work_created=14.34GiB)
+[2026-05-27 22:06:21] waiting for filebench Running... (70s elapsed; work_created=16.53GiB)
+[2026-05-27 22:06:31] waiting for filebench Running... (80s elapsed; work_created=18.97GiB)
+[2026-05-27 22:06:41] waiting for filebench Running... (90s elapsed; work_created=21.15GiB)
+[2026-05-27 22:06:51] waiting for filebench Running... (100s elapsed; work_created=23.46GiB)
+[2026-05-27 22:07:01] waiting for filebench Running... (110s elapsed; work_created=25.70GiB)
+[2026-05-27 22:07:11] waiting for filebench Running... (120s elapsed; work_created=28.08GiB)
+[2026-05-27 22:07:21] waiting for filebench Running... (130s elapsed; work_created=30.37GiB)
+[2026-05-27 22:07:31] waiting for filebench Running... (140s elapsed; work_created=32.73GiB)
+[2026-05-27 22:07:41] waiting for filebench Running... (150s elapsed; work_created=35.02GiB)
+[2026-05-27 22:07:51] waiting for filebench Running... (160s elapsed; work_created=37.18GiB)
+[2026-05-27 22:08:02] waiting for filebench Running... (170s elapsed; work_created=39.32GiB)
+[2026-05-27 22:08:12] waiting for filebench Running... (180s elapsed; work_created=41.79GiB)
+[2026-05-27 22:08:22] waiting for filebench Running... (190s elapsed; work_created=44.08GiB)
+[2026-05-27 22:08:32] waiting for filebench Running... (200s elapsed; work_created=46.29GiB)
+[2026-05-27 22:08:42] waiting for filebench Running... (210s elapsed; work_created=48.63GiB)
+[2026-05-27 22:08:52] waiting for filebench Running... (220s elapsed; work_created=50.81GiB)
+[2026-05-27 22:09:02] waiting for filebench Running... (230s elapsed; work_created=53.25GiB)
+[2026-05-27 22:09:12] waiting for filebench Running... (240s elapsed; work_created=55.26GiB)
+[2026-05-27 22:09:22] waiting for filebench Running... (250s elapsed; work_created=57.55GiB)
+[2026-05-27 22:09:32] waiting for filebench Running... (260s elapsed; work_created=60.04GiB)
+[2026-05-27 22:09:43] waiting for filebench Running... (270s elapsed; work_created=62.30GiB)
+[2026-05-27 22:09:53] waiting for filebench Running... (280s elapsed; work_created=64.55GiB)
+[2026-05-27 22:10:03] waiting for filebench Running... (290s elapsed; work_created=66.73GiB)
+[2026-05-27 22:10:13] waiting for filebench Running... (300s elapsed; work_created=68.99GiB)
+[2026-05-27 22:10:23] waiting for filebench Running... (310s elapsed; work_created=71.18GiB)
+[2026-05-27 22:10:33] waiting for filebench Running... (320s elapsed; work_created=73.80GiB)
+[2026-05-27 22:10:43] waiting for filebench Running... (330s elapsed; work_created=75.98GiB)
+[2026-05-27 22:10:53] waiting for filebench Running... (340s elapsed; work_created=77.97GiB)
+[2026-05-27 22:11:03] waiting for filebench Running... (350s elapsed; work_created=80.76GiB)
+[2026-05-27 22:11:13] waiting for filebench Running... (360s elapsed; work_created=82.71GiB)
+[2026-05-27 22:11:24] waiting for filebench Running... (370s elapsed; work_created=85.60GiB)
+[2026-05-27 22:11:34] waiting for filebench Running... (380s elapsed; work_created=88.00GiB)
+[2026-05-27 22:11:44] waiting for filebench Running... (390s elapsed; work_created=90.88GiB)
+[2026-05-27 22:11:54] waiting for filebench Running... (400s elapsed; work_created=93.62GiB)
+[2026-05-27 22:12:04] waiting for filebench Running... (410s elapsed; work_created=96.50GiB)
+[2026-05-27 22:12:14] waiting for filebench Running... (420s elapsed; work_created=99.21GiB)
+[2026-05-27 22:12:24] waiting for filebench Running... (430s elapsed; work_created=100.00GiB)
+[2026-05-27 22:12:34] waiting for filebench Running... (440s elapsed; work_created=100.00GiB)
+[2026-05-27 22:12:44] waiting for filebench Running... (450s elapsed; work_created=100.00GiB)
+[2026-05-27 22:12:54] waiting for filebench Running... (460s elapsed; work_created=100.00GiB)
+[2026-05-27 22:13:04] waiting for filebench Running... (470s elapsed; work_created=100.00GiB)
+[2026-05-27 22:13:15] waiting for filebench Running... (480s elapsed; work_created=100.00GiB)
+[2026-05-27 22:13:17] filebench reached Running state; preallocation phase is done
+[2026-05-27 22:13:18] work creation stopped created=100.00GiB min=100.00GiB target=100.00GiB
+[2026-05-27 22:13:18] measurement begins: filebench runtime + delete stream
+[2026-05-27 22:13:18] start delete worker while filebench is running rate=6.00GiB/min progress_sec=10
+[2026-05-27 22:28:18] filebench exit rc=0
+[2026-05-27 22:28:23] done: /home/kjh/real_ssd_test/gc/logs/20260527_214457_nodiscard_strict_gc
+[2026-05-27 22:28:23] data left in: /nvme/media/gc_exp/20260527_214457_nodiscard_data
+[2026-05-27 22:28:23] restore mount option: mount -o remount,nodiscard /nvme/media
+[2026-05-27 22:28:23] experiment data preserved under: /nvme/media/gc_exp/20260527_214457_nodiscard_data
+[2026-05-27 22:28:23] age filler preserved under: /nvme/media/gc_exp/age_filler
+[2026-05-27 22:28:23] logs preserved under: /home/kjh/real_ssd_test/gc/logs/20260527_214457_nodiscard_strict_gc

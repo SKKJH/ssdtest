@@ -1,0 +1,15 @@
+{
+  "base_dir": "/nvme/media/gc_exp/age_filler/age_20260527_163030_online_discard",
+  "bytes": 571230650368,
+  "elapsed_sec": 1030.7147414480005,
+  "files": 532,
+  "sizes": [
+    1073741824
+  ],
+  "stop_reason": "target_reached",
+  "sync_at_end": true,
+  "target_bytes": 571230650368,
+  "weights": [
+    1.0
+  ]
+}

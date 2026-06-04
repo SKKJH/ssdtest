@@ -1,0 +1,3038 @@
+===== 2026-05-27 22:30:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   11G  859G   2% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:30:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   13G  857G   2% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:30:45 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   16G  854G   2% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:30:55 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   17G  853G   2% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:31:05 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   18G  852G   3% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:31:15 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   20G  851G   3% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:31:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   21G  849G   3% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:31:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   22G  848G   3% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:31:45 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   23G  847G   3% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:31:55 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   25G  845G   3% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:32:05 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   26G  844G   3% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:32:15 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   27G  843G   4% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:32:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   29G  841G   4% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:32:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   30G  840G   4% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:32:45 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   32G  838G   4% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:32:55 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   33G  837G   4% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:33:05 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   35G  836G   4% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:33:15 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   36G  834G   5% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:33:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   37G  833G   5% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:33:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   38G  832G   5% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:33:45 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   39G  831G   5% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:33:55 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   41G  829G   5% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:34:05 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   42G  828G   5% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:34:15 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   44G  826G   6% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:34:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   46G  825G   6% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:34:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   47G  823G   6% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:34:45 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   48G  822G   6% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:34:55 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   50G  820G   6% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:35:05 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   51G  819G   6% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:35:15 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   53G  817G   7% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:35:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   55G  815G   7% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:35:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   57G  813G   7% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:35:45 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   59G  811G   7% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:35:55 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   61G  809G   7% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:36:05 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   62G  808G   8% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:36:15 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   64G  806G   8% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:36:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   65G  805G   8% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:36:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   66G  804G   8% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:36:45 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   68G  802G   8% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:36:55 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   70G  800G   9% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:37:05 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   72G  799G   9% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:37:15 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   73G  797G   9% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:37:25 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   75G  795G   9% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:37:35 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   77G  793G   9% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:37:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   80G  790G  10% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:37:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   81G  789G  10% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:38:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   83G  787G  10% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:38:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   85G  785G  10% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:38:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   87G  783G  10% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:38:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   88G  782G  11% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:38:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   90G  780G  11% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:38:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   92G  779G  11% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:39:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   93G  777G  11% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:39:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   95G  775G  11% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:39:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   97G  773G  12% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:39:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G   99G  771G  12% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:39:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  100G  770G  12% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:39:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  101G  769G  12% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:40:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  103G  767G  12% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:40:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  106G  764G  13% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:40:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  108G  762G  13% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:40:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  110G  761G  13% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:40:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  111G  759G  13% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:40:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  113G  758G  13% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:41:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  115G  756G  14% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:41:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  117G  754G  14% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:41:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  119G  752G  14% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:41:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  121G  750G  14% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:41:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  123G  748G  15% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:41:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  124G  746G  15% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:42:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  126G  744G  15% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:42:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  127G  743G  15% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:42:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  129G  741G  15% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:42:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  131G  739G  15% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:42:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  133G  738G  16% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:42:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  135G  735G  16% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:43:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  138G  733G  16% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:43:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  140G  730G  17% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:43:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  142G  729G  17% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:43:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  144G  726G  17% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:43:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  146G  725G  17% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:43:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  148G  723G  17% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:44:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  150G  721G  18% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:44:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  152G  718G  18% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:44:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  154G  717G  18% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:44:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  155G  715G  18% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:44:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  157G  713G  18% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:44:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  159G  711G  19% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:45:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  160G  710G  19% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:45:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  162G  709G  19% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:45:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  164G  706G  19% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:45:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  167G  703G  20% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:45:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  169G  701G  20% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:45:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  170G  700G  20% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:46:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  173G  697G  20% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:46:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  175G  695G  21% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:46:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  177G  693G  21% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:46:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  179G  691G  21% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:46:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  180G  690G  21% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:46:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  182G  688G  21% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:47:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  184G  686G  22% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:47:16 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  186G  684G  22% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:47:26 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  188G  683G  22% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:47:36 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  190G  681G  22% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:47:46 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  191G  679G  22% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:47:56 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  193G  677G  23% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:48:06 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  194G  676G  23% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:48:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  196G  674G  23% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:48:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  198G  673G  23% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:48:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  199G  671G  23% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:48:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  201G  670G  24% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:48:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  203G  667G  24% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:49:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  205G  666G  24% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:49:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  206G  664G  24% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:49:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  208G  663G  24% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:49:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  209G  661G  24% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:49:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  211G  660G  25% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:49:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  212G  658G  25% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:50:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  213G  657G  25% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:50:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  215G  655G  25% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:50:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  217G  653G  25% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:50:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  219G  652G  26% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:50:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  220G  650G  26% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:50:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  221G  650G  26% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:51:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  224G  647G  26% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:51:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  227G  643G  27% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:51:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  230G  640G  27% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:51:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  232G  639G  27% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:51:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  234G  636G  27% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:51:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  238G  633G  28% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:52:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  240G  630G  28% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:52:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  242G  628G  28% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:52:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  244G  626G  28% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:52:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  246G  624G  29% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:52:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  248G  622G  29% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:52:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  250G  620G  29% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:53:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  252G  618G  29% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:53:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  255G  615G  30% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:53:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  258G  613G  30% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:53:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  260G  610G  30% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:53:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  263G  607G  31% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:53:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  264G  606G  31% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:54:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  267G  603G  31% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:54:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  269G  601G  31% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:54:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  272G  598G  32% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:54:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  273G  597G  32% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:54:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  276G  595G  32% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:54:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  280G  590G  33% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:55:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  281G  590G  33% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:55:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  283G  587G  33% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:55:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  286G  584G  33% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:55:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  288G  582G  34% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:55:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  289G  581G  34% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:55:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  292G  579G  34% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:56:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  293G  578G  34% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:56:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  295G  575G  34% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:56:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  297G  573G  35% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:56:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  298G  572G  35% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:56:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  300G  570G  35% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:56:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  301G  569G  35% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:57:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  304G  567G  35% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:57:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  305G  565G  36% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:57:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  308G  562G  36% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:57:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  310G  560G  36% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:57:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  311G  559G  36% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:57:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  313G  557G  36% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:58:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  315G  555G  37% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:58:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  316G  554G  37% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:58:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  319G  551G  37% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:58:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  322G  549G  37% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:58:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  322G  548G  38% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:58:57 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  326G  545G  38% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:59:07 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  327G  543G  38% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:59:17 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  329G  541G  38% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:59:27 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  331G  539G  39% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:59:37 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  332G  538G  39% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:59:47 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  335G  535G  39% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 22:59:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  337G  533G  39% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:00:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  339G  532G  39% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:00:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  341G  530G  40% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:00:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  342G  528G  40% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:00:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  344G  526G  40% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:00:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  345G  525G  40% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:00:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  348G  522G  40% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:01:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  350G  520G  41% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:01:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  351G  519G  41% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:01:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  354G  517G  41% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:01:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  355G  515G  41% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:01:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  356G  514G  41% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:01:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  357G  513G  42% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:02:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  359G  511G  42% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:02:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  361G  509G  42% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:02:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  363G  507G  42% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:02:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  365G  506G  42% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:02:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  366G  504G  43% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:02:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  368G  503G  43% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:03:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  370G  500G  43% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:03:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  371G  499G  43% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:03:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  373G  497G  43% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:03:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  375G  495G  44% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:03:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  377G  493G  44% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:03:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  378G  492G  44% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:04:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  381G  490G  44% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:04:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  382G  488G  44% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:04:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  384G  486G  45% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:04:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  386G  485G  45% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:04:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  387G  483G  45% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:04:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  388G  482G  45% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:05:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  390G  480G  45% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:05:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  392G  479G  46% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:05:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  393G  477G  46% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:05:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  395G  475G  46% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:05:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  396G  474G  46% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:05:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  399G  472G  46% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:06:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  400G  470G  46% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:06:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  401G  469G  47% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:06:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  403G  467G  47% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:06:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  406G  464G  47% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:06:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  407G  463G  47% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:06:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  409G  462G  47% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:07:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  410G  460G  48% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:07:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  411G  459G  48% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:07:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  414G  457G  48% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:07:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  417G  454G  48% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:07:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  418G  453G  48% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:07:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  420G  450G  49% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:08:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  422G  448G  49% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:08:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  423G  447G  49% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:08:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  425G  446G  49% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:08:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  428G  442G  50% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:08:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  430G  440G  50% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:08:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  433G  437G  50% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:09:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  434G  436G  50% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:09:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  437G  434G  51% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:09:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  439G  432G  51% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:09:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  444G  427G  51% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:09:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  445G  425G  52% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:09:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  449G  422G  52% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:10:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  451G  419G  52% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:10:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  453G  417G  53% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:10:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  457G  413G  53% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:10:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  460G  410G  53% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:10:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  463G  407G  54% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:10:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  466G  404G  54% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:11:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  469G  402G  54% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:11:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  471G  399G  55% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:11:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  474G  396G  55% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:11:38 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  478G  392G  55% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:11:48 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  481G  390G  56% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:11:58 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  483G  387G  56% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:12:08 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  486G  384G  56% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:12:18 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  489G  381G  57% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:12:28 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  492G  378G  57% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:12:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  495G  375G  57% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:12:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  498G  372G  58% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:12:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  504G  367G  58% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:13:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  506G  364G  59% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:13:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  509G  361G  59% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:13:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  512G  358G  59% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:13:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  514G  356G  60% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:13:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  516G  354G  60% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:13:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  518G  352G  60% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:14:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  521G  350G  60% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:14:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  523G  348G  61% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:14:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  526G  344G  61% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:14:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  528G  342G  61% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:14:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  530G  340G  61% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:14:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  534G  336G  62% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:15:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  536G  334G  62% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:15:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  539G  331G  62% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:15:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  542G  329G  63% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:15:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  544G  326G  63% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:15:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  547G  323G  63% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:15:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  550G  320G  64% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:16:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  553G  318G  64% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:16:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  554G  316G  64% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:16:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  556G  314G  64% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:16:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  559G  312G  65% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:16:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  562G  309G  65% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:16:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  564G  306G  65% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:17:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  566G  304G  66% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:17:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  568G  302G  66% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:17:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  570G  300G  66% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:17:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  572G  298G  66% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:17:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  575G  295G  67% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:17:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  577G  293G  67% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:18:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  580G  291G  67% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:18:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  584G  287G  68% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:18:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  587G  283G  68% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:18:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  590G  280G  68% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:18:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  595G  275G  69% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:18:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  598G  272G  69% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:19:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  601G  269G  70% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:19:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  604G  266G  70% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:19:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  608G  262G  70% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:19:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  611G  259G  71% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:19:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  614G  256G  71% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:19:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  617G  253G  71% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:20:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  622G  249G  72% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:20:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  625G  245G  72% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:20:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  628G  243G  73% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:20:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  629G  241G  73% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:20:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  633G  237G  73% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:20:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  636G  234G  74% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:21:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  639G  231G  74% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:21:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  642G  228G  74% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:21:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  647G  224G  75% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:21:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  649G  221G  75% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:21:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  653G  217G  76% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:21:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  655G  215G  76% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:22:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  658G  212G  76% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:22:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  660G  210G  76% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:22:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  663G  207G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:22:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  668G  202G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:22:49 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  672G  199G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:22:59 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  676G  194G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:23:09 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  678G  192G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:23:19 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  681G  190G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:23:29 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  683G  187G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:23:39 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  686G  184G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:23:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  688G  182G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:24:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  690G  180G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:24:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  692G  178G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:24:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  695G  175G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:24:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  698G  172G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:24:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  700G  171G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:24:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  703G  167G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:25:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  706G  165G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:25:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  707G  163G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:25:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  711G  159G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:25:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  713G  157G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:25:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  715G  155G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:25:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  717G  153G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:26:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  720G  150G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:26:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  727G  143G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:26:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  730G  140G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:26:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  731G  139G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:26:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  733G  137G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:26:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  736G  134G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:27:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  739G  131G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:27:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  742G  129G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:27:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  745G  125G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:27:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  750G  121G  87% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:27:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  749G  121G  87% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:27:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  748G  122G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:28:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  747G  123G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:28:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  746G  124G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:28:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  745G  125G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:28:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  744G  126G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:28:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  743G  127G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:28:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  742G  128G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:29:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  741G  129G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:29:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  740G  130G  86% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:29:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  739G  131G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:29:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  738G  132G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:29:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  737G  133G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:29:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  736G  134G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:30:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  735G  135G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:30:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  734G  136G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:30:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  733G  137G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:30:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  732G  138G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:30:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  731G  139G  85% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:30:50 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  730G  140G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:31:00 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  729G  141G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:31:10 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  728G  142G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:31:20 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  727G  143G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:31:30 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  726G  144G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:31:40 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  725G  145G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:31:51 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  724G  146G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:32:01 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  723G  147G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:32:11 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  722G  148G  84% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:32:21 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  721G  149G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:32:31 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  720G  150G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:32:41 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  719G  151G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:32:51 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  718G  152G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:33:01 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  717G  153G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:33:11 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  716G  154G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:33:21 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  715G  155G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:33:31 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  714G  156G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:33:41 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  713G  157G  83% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:33:51 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  712G  158G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:34:01 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  711G  159G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:34:11 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  711G  160G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:34:21 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  710G  161G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:34:31 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  709G  162G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:34:41 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  708G  163G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:34:51 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  707G  164G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:35:01 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  706G  165G  82% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:35:11 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  705G  166G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:35:21 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  704G  167G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:35:31 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  703G  168G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:35:41 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  702G  169G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:35:51 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  701G  170G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:36:01 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  700G  171G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:36:11 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  699G  172G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:36:21 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  698G  173G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:36:31 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  697G  174G  81% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:36:41 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  696G  175G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:36:51 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  695G  176G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:37:01 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  694G  177G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:37:11 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  693G  178G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:37:21 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  692G  179G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:37:31 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  691G  180G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:37:41 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  690G  181G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:37:51 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  689G  182G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:38:01 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  688G  183G  80% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:38:11 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  687G  184G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:38:21 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  686G  185G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:38:32 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  685G  186G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:38:42 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  684G  187G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:38:52 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  683G  188G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:39:02 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  682G  189G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:39:12 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  681G  190G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:39:22 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  680G  191G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:39:32 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  679G  192G  79% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:39:42 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  678G  193G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:39:52 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  677G  194G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:40:02 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  676G  195G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:40:12 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  675G  196G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:40:22 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  674G  197G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:40:32 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  673G  198G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:40:42 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  672G  199G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:40:52 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  671G  200G  78% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:41:02 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  670G  201G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:41:12 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  669G  202G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:41:22 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  668G  203G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:41:32 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  667G  204G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:41:42 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  666G  205G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:41:52 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  665G  206G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:42:02 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  664G  207G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:42:12 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  663G  208G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:42:22 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  662G  209G  77% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:42:32 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  661G  209G  76% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,discard,stripe=32
+
+===== 2026-05-27 23:42:42 =====
+[mounted] /dev/nvme0n1 -> /nvme/media
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1    916G  661G  209G  76% /nvme/media
+SOURCE       TARGET      FSTYPE OPTIONS
+/dev/nvme0n1 /nvme/media ext4   rw,noatime,nodiratime,stripe=32
+

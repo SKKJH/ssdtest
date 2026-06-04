@@ -1,0 +1,19 @@
+{
+  "base_dir": "/nvme/media/gc_exp/20260527_163030_online_discard_data/work",
+  "bytes": 107374182400,
+  "elapsed_sec": 273.5007637180006,
+  "files": 27746,
+  "sizes": [
+    1048576,
+    4194304,
+    16777216
+  ],
+  "stop_reason": "target_reached",
+  "sync_at_end": true,
+  "target_bytes": 107374182400,
+  "weights": [
+    5.0,
+    3.0,
+    1.0
+  ]
+}
