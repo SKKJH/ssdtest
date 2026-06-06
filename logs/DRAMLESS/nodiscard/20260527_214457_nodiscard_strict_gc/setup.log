@@ -1,3 +1,0 @@
-mount: /etc/fstab: parse error at line 12 -- ignored
-rw,noatime,nodiratime,stripe=32
-mount: /etc/fstab: parse error at line 12 -- ignored

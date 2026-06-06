@@ -1,9 +1,0 @@
-result=PASS
-message=run completed; data preserved under DATA_DIR
-device=/dev/nvme0n1
-mount=/nvme/media
-data_dir=/nvme/media/gc_exp/20260527_191327_nodiscard_data
-age_dir=/nvme/media/gc_exp/age_filler
-log_dir=/home/kjh/real_ssd_test/gc/logs/20260527_191327_nodiscard_strict_gc
-fb_dir=/nvme/media/gc_exp/20260527_191327_nodiscard_data/filebench
-wk_dir=/nvme/media/gc_exp/20260527_191327_nodiscard_data/work
